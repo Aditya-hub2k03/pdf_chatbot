@@ -22,3 +22,8 @@ Usage:
 	b. In Windows actiavte the venv by 'venv/Scripts/activate' and in Linux and Mac activate the venv by 'source venv/bin/activate'.
 2. Install the requirements by 'pip3 install -r requirements.txt' and in rare cases of Linux distros 'pip3 install -r requirements.txt --break-system-packages'.
 3. Execute the command of streamlit 'streamlit run app.py' to run the program.
+
+
+
+
+#reference git "https://github.com/yesbhautik/Talk-with-PDF.git".
