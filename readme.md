@@ -31,4 +31,4 @@ Installation:
 
 #reference git "https://github.com/yesbhautik/Talk-with-PDF.git".
 
-'https://pdfchatbot-gitaditya.streamlit.app/' - A preview of the designed website
+'https://pdfchatbot-gitaditya.streamlit.app/' - A preview of the designed website deployed on streamlit without any environment variables including the API.
