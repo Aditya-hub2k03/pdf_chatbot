@@ -18,8 +18,8 @@ The pip library for the hugging face model can also be used after removing the c
 Installation:
 
 1. Create a virtual environment by installing python virtual environment ('pip3 install virtualenv')
-	a. Execute the command 'virtualenv venv' to create a virtual environment venv in the Parent folder.
-	b. In Windows actiavte the venv by 'venv/Scripts/activate' and in Linux and Mac activate the venv by 'source venv/bin/activate'.
+	1.a. Execute the command 'virtualenv venv' to create a virtual environment venv in the Parent folder.
+	1.b. In Windows actiavte the venv by 'venv/Scripts/activate' and in Linux and Mac activate the venv by 'source venv/bin/activate'.
 2. Install the requirements by 'pip3 install -r requirements.txt' and in rare cases of Linux distros 'pip3 install -r requirements.txt --break-system-packages'.
 3. Execute the command of streamlit 'streamlit run app.py' to run the program.
 
