@@ -9,6 +9,7 @@ The llm used in this app is Gemini, formerly known as Bard, which is a generativ
 Here a seperate file called as ".env" has to be created in the parent folder with the contents in it as 
 
 "GOOGLE_API_KEY='Google Gemini API key'
+
 HUGGINGFACEHUB_API_TOKEN='Hugging Face API key' "
 
 Alternatively, A huggingface model is also mentioned in the 'app.py' code where it comes to use after removing the comment label in the line of llm and embeddings
