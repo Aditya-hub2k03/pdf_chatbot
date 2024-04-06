@@ -15,7 +15,7 @@ Alternatively, A huggingface model is also mentioned in the 'app.py' code where 
 
 The pip library for the hugging face model can also be used after removing the comment label from the requirements file and installing the required libraries.
 
-Usage:
+Installation:
 
 1. Create a virtual environment by installing python virtual environment ('pip3 install virtualenv')
 	a. Execute the command 'virtualenv venv' to create a virtual environment venv in the Parent folder.
