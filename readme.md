@@ -2,7 +2,7 @@ PDF Chat Bot
 
 This chat bot is desgined for interacting with the documents uploaded and answering any questions related to the documents.
 
-This bot is designed using streamlit ("refer: https://streamlit.io/")
+This bot is designed using streamlit ('refer: https://streamlit.io/')
 
 The llm used in this app is Gemini, formerly known as Bard, which is a generative artificial intelligence chatbot developed by Google.
 
